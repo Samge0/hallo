@@ -170,5 +170,6 @@ pretrained_models
 test_data
 
 # custom
+.github/
 .devcontainer/docker-compose.yml
 pretrained_models/
